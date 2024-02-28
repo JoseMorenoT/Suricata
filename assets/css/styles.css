@@ -1,0 +1,55 @@
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+/* COMENTARIO */
+
+/* INICIO ESTILOS NAVBAR */
+
+nav, footer {
+    background-color: #E83E8C;
+}
+
+
+/* FIN ESTILOS NAVBAR */
+
+
+/* INICIO ESTILOS header */
+
+header h1 {
+    font-size: 35px;
+    color: #707070;
+}
+
+/* FIN ESTILOS HEADER */
+
+/* INICIO ESTILOS footer */
+
+footer img {
+    width: 4%;
+    min-width: 35px;
+}
+
+/* FIN ESTILOS footer */
+
+
+/* INICIO ESTILOS SECCIÓN PRODUCTOS */
+
+#productos .card .card-body .card-text {
+    height: 150px;
+}
+
+/* FIN ESTILOS SECCIÓN PRODUCTOS */
+
+
+/* INICIO SECCIÓN TARJETAS */
+#tarjetas {
+    background-color: #17A2B8;
+} 
+
+#tarjetas .wrapper-tarjetas-icons i{
+    font-size: 85px;
+    margin: 0 5px;
+}
+
+/* FIN SECCIÓN TARJETAS */
